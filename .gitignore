@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.pytest_cache/
+models/*.joblib
+uploads/*
+!uploads/.gitkeep
+!uploads/demo_syn_flood.pcap
+reports/*
+!reports/.gitkeep
